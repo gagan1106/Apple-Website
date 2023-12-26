@@ -1,6 +1,8 @@
 # Apple-Website
 This is the basic frontend clone of apple website
 
+Here is the hosting link : https://gagan1106.github.io/Apple-Website/
+
 ![1](https://github.com/gagan1106/Apple-Website/assets/112796038/8cc2a971-14d9-4a88-9639-041810a50647)
 
 ![2](https://github.com/gagan1106/Apple-Website/assets/112796038/8d6f8598-429c-41b9-afc9-68e984d7bc6f)
